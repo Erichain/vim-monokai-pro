@@ -1,7 +1,7 @@
 # vim-monokai-pro
 Monokai Pro color scheme for Vim. Inspired by https://www.monokai.pro/.
 
-## Install
+## Installation
 ### Option 1 (Recommended)
 
 ``` bash
@@ -15,7 +15,7 @@ Download or clone the repository, then copy the files of colors to `~/.vim/color
 Add this line to your .vimrc or your config of your vim:
 
 ``` bash
-set colorscheme 'monokaiPro'
+set colorscheme 'monokaipro'
 ```
 
 ## Screenshots

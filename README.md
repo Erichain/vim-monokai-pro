@@ -2,23 +2,27 @@
 Monokai Pro color scheme for Vim. Inspired by https://www.monokai.pro/.
 
 ## Installation
-### Option 1 (Recommended)
 
 ``` bash
-cd ~/.vim/colors && git archive --format=tar --remote=git@github.com:Erichain/vim-monokai-pro.git HEAD:colors | tar xvf -
+git clone https://github.com/Erichain/vim-monokai-pro.git
+cp -r vim-monokai-pro/colors/ ~/.vim/colors/
 ```
-
-### Option 2
-Download or clone the repository, then copy the files of colors to `~/.vim/colors`
 
 ## Change Theme
 Add this line to your .vimrc or your config of your vim:
 
 ``` bash
-set colorscheme 'monokaipro'
+set colorscheme COLOR_SCHEME_NAME
+
+# COLOR_SCHEME_NAME can be one of the options below:
+# monokaipro
+# monokaipro-spectrum
+# monokaipro-ristretto
+# monokaipro-octagon
+# monokaipro-machine
 ```
 
 ## Screenshots
 
 ## License
-Release under the MIT license.
+Released under the MIT license.

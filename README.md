@@ -1,4 +1,4 @@
-# vim-monokai-pro
+# vim-monokai-pro [NOT COMPLETE!]
 Monokai Pro color scheme for Vim. Inspired by https://www.monokai.pro/.
 
 ## Installation

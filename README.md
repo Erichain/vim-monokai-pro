@@ -15,11 +15,11 @@ Add this line to your .vimrc or your config of your vim:
 set colorscheme COLOR_SCHEME_NAME
 
 # COLOR_SCHEME_NAME can be one of the options below:
-# monokaipro
-# monokaipro-spectrum
-# monokaipro-ristretto
-# monokaipro-octagon
-# monokaipro-machine
+# monokai_pro
+# monokai_pro_spectrum
+# monokai_pro_ristretto
+# monokai_pro_octagon
+# monokai_pro_machine
 ```
 
 ## Screenshots

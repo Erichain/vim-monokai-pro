@@ -44,18 +44,18 @@ hi Float ctermfg=141 ctermbg=NONE cterm=NONE
 hi Function ctermfg=81 ctermbg=NONE cterm=NONE
 hi Identifier ctermfg=81 ctermbg=NONE cterm=NONE
 hi Keyword ctermfg=204 ctermbg=NONE cterm=NONE
-hi Label ctermfg=186 ctermbg=NONE cterm=NONE
+hi Label ctermfg=204 ctermbg=NONE cterm=NONE
 hi NonText ctermfg=59 ctermbg=235 cterm=NONE
 hi Number ctermfg=141 ctermbg=NONE cterm=NONE
 hi Operator ctermfg=204 ctermbg=NONE cterm=NONE
 hi PreProc ctermfg=119 ctermbg=NONE cterm=NONE
-hi Special ctermfg=231 ctermbg=NONE cterm=NONE
+hi Special ctermfg=81 ctermbg=NONE cterm=NONE
 hi SpecialKey ctermfg=59 ctermbg=237 cterm=NONE
 hi Statement ctermfg=204 ctermbg=NONE cterm=NONE
 hi StorageClass ctermfg=81 ctermbg=NONE cterm=NONE
 hi String ctermfg=220 ctermbg=NONE cterm=NONE
 hi Tag ctermfg=204 ctermbg=NONE cterm=NONE
-hi Title ctermfg=231 ctermbg=NONE cterm=bold
+hi Title ctermfg=255 ctermbg=NONE cterm=bold
 hi Todo ctermfg=11 ctermbg=NONE
 hi Type ctermfg=81 ctermbg=NONE cterm=NONE
 hi Underlined ctermfg=NONE ctermbg=NONE cterm=underline

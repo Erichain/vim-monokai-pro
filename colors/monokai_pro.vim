@@ -48,7 +48,7 @@ hi Label ctermfg=204 ctermbg=NONE cterm=NONE
 hi NonText ctermfg=59 ctermbg=235 cterm=NONE
 hi Number ctermfg=141 ctermbg=NONE cterm=NONE
 hi Operator ctermfg=204 ctermbg=NONE cterm=NONE
-hi PreProc ctermfg=119 ctermbg=NONE cterm=NONE
+hi PreProc ctermfg=155 ctermbg=NONE cterm=NONE
 hi Special ctermfg=81 ctermbg=NONE cterm=NONE
 hi SpecialKey ctermfg=59 ctermbg=237 cterm=NONE
 hi Statement ctermfg=204 ctermbg=NONE cterm=NONE

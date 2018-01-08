@@ -100,8 +100,8 @@ hi yamlDocumentHeader ctermfg=186 ctermbg=NONE cterm=NONE
 hi cssURL ctermfg=208 ctermbg=NONE cterm=NONE
 hi cssFunctionName ctermfg=81 ctermbg=NONE cterm=NONE
 hi cssColor ctermfg=141 ctermbg=NONE cterm=NONE
-hi cssPseudoClassId ctermfg=148 ctermbg=NONE cterm=NONE
-hi cssClassName ctermfg=148 ctermbg=NONE cterm=NONE
+hi cssPseudoClassId ctermfg=155 ctermbg=NONE cterm=NONE
+hi cssClassName ctermfg=155 ctermbg=NONE cterm=NONE
 hi cssValueLength ctermfg=141 ctermbg=NONE cterm=NONE
 hi cssCommonAttr ctermfg=81 ctermbg=NONE cterm=NONE
 hi cssBraces ctermfg=NONE ctermbg=NONE cterm=NONE

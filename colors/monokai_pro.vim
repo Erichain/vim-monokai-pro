@@ -1,4 +1,7 @@
 " Vim color file
+" Author: Erichain
+" Colorscheme Name: monokai_pro
+" Inspired by https://www.monokai.pro/
 
 set background=dark
 highlight clear

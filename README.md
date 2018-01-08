@@ -12,14 +12,7 @@ cp -r vim-monokai-pro/colors/ ~/.vim/colors/
 Add this line to your .vimrc or your config of your vim:
 
 ``` bash
-set colorscheme COLOR_SCHEME_NAME
-
-# COLOR_SCHEME_NAME can be one of the options below:
-# monokai_pro
-# monokai_pro_spectrum
-# monokai_pro_ristretto
-# monokai_pro_octagon
-# monokai_pro_machine
+set colorscheme monokai_pro 
 ```
 
 ## Screenshots

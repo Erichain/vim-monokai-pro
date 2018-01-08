@@ -85,10 +85,10 @@ hi rubyRailsMethod ctermfg=81 ctermbg=NONE cterm=NONE
 hi erubyDelimiter ctermfg=NONE ctermbg=NONE cterm=NONE
 hi erubyComment ctermfg=95 ctermbg=NONE cterm=NONE
 hi erubyRailsMethod ctermfg=81 ctermbg=NONE cterm=NONE
-hi htmlTag ctermfg=NONE ctermbg=NONE cterm=NONE
-hi htmlEndTag ctermfg=NONE ctermbg=NONE cterm=NONE
-hi htmlTagName ctermfg=NONE ctermbg=NONE cterm=NONE
-hi htmlArg ctermfg=NONE ctermbg=NONE cterm=NONE
+hi htmlTag ctermfg=245 ctermbg=NONE cterm=NONE
+hi htmlEndTag ctermfg=245 ctermbg=NONE cterm=NONE
+hi htmlTagName ctermfg=204 ctermbg=NONE cterm=NONE
+hi htmlArg ctermfg=81 ctermbg=NONE cterm=NONE
 hi htmlSpecialChar ctermfg=141 ctermbg=NONE cterm=NONE
 hi javaScriptFunction ctermfg=81 ctermbg=NONE cterm=NONE
 hi javaScriptRailsFunction ctermfg=81 ctermbg=NONE cterm=NONE

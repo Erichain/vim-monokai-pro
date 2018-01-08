@@ -20,9 +20,9 @@ hi VertSplit ctermfg=241 ctermbg=241 cterm=NONE
 hi MatchParen ctermfg=11 ctermbg=NONE cterm=underline
 hi StatusLine ctermfg=231 ctermbg=241 cterm=bold
 hi StatusLineNC ctermfg=231 ctermbg=241 cterm=NONE
-hi Pmenu ctermfg=NONE ctermbg=NONE cterm=NONE
+hi Pmenu ctermfg=NONE ctermbg=236 cterm=NONE
 hi PmenuSel ctermfg=NONE ctermbg=59 cterm=NONE
-hi IncSearch ctermfg=235 ctermbg=186 cterm=NONE
+hi IncSearch ctermfg=16 ctermbg=11 cterm=NONE
 hi Search ctermfg=16 ctermbg=11 cterm=NONE
 hi Directory ctermfg=141 ctermbg=NONE cterm=NONE
 hi Folded ctermfg=242 ctermbg=235 cterm=NONE

@@ -13,7 +13,7 @@ endif
 set t_Co=256
 let g:colors_name = "monokai_pro"
 
-hi Cursor ctermfg=231 ctermbg=231 cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE
+hi Cursor ctermfg=231 ctermbg=231 cterm=NONE guibg=#ffffff guifg=#ffffff guisp=NONE gui=NONE
 hi Visual ctermfg=NONE ctermbg=239 cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE
 hi CursorLine ctermfg=NONE ctermbg=237 cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE
 hi CursorColumn ctermfg=NONE ctermbg=237 cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE
@@ -21,8 +21,8 @@ hi ColorColumn ctermfg=NONE ctermbg=237 cterm=NONE guibg=NONE guifg=NONE guisp=N
 hi LineNr ctermfg=102 ctermbg=235 cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE
 hi VertSplit ctermfg=241 ctermbg=241 cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE
 hi MatchParen ctermfg=11 ctermbg=NONE cterm=underline guibg=NONE guifg=NONE guisp=NONE gui=NONE
-hi StatusLine ctermfg=231 ctermbg=241 cterm=bold guibg=NONE guifg=NONE guisp=NONE gui=NONE
-hi StatusLineNC ctermfg=231 ctermbg=241 cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE
+hi StatusLine ctermfg=231 ctermbg=241 cterm=bold guibg=NONE guifg=#ffffff guisp=NONE gui=NONE
+hi StatusLineNC ctermfg=231 ctermbg=241 cterm=NONE guibg=NONE guifg=#ffffff guisp=NONE gui=NONE
 hi Pmenu ctermfg=NONE ctermbg=236 cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE
 hi PmenuSel ctermfg=NONE ctermbg=59 cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE
 hi IncSearch ctermfg=16 ctermbg=11 cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE
@@ -30,19 +30,19 @@ hi Search ctermfg=16 ctermbg=11 cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=
 hi Directory ctermfg=141 ctermbg=NONE cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE
 hi Folded ctermfg=242 ctermbg=235 cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE
 hi SignColumn ctermfg=NONE ctermbg=237 cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE
-hi Normal ctermfg=231 ctermbg=235 cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE
+hi Normal ctermfg=231 ctermbg=235 cterm=NONE guibg=NONE guifg=#ffffff guisp=NONE gui=NONE
 hi Boolean ctermfg=141 ctermbg=NONE cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE
 hi Character ctermfg=141 ctermbg=NONE cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE
 hi Comment ctermfg=242 ctermbg=NONE cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE
 hi Conditional ctermfg=204 ctermbg=NONE cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE
 hi Constant ctermfg=NONE ctermbg=NONE cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE
 hi Define ctermfg=204 ctermbg=NONE cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE
-hi DiffAdd ctermfg=231 ctermbg=64 cterm=bold guibg=NONE guifg=NONE guisp=NONE gui=NONE
+hi DiffAdd ctermfg=231 ctermbg=64 cterm=bold guibg=NONE guifg=#ffffff guisp=NONE gui=NONE
 hi DiffDelete ctermfg=88 ctermbg=NONE cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE
 hi DiffChange ctermfg=NONE ctermbg=NONE cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE
-hi DiffText ctermfg=231 ctermbg=24 cterm=bold guibg=NONE guifg=NONE guisp=NONE gui=NONE
-hi ErrorMsg ctermfg=231 ctermbg=204 cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE
-hi WarningMsg ctermfg=231 ctermbg=204 cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE
+hi DiffText ctermfg=231 ctermbg=24 cterm=bold guibg=NONE guifg=#ffffff guisp=NONE gui=NONE
+hi ErrorMsg ctermfg=231 ctermbg=204 cterm=NONE guibg=NONE guifg=#ffffff guisp=NONE gui=NONE
+hi WarningMsg ctermfg=231 ctermbg=204 cterm=NONE guibg=NONE guifg=#ffffff guisp=NONE gui=NONE
 hi Float ctermfg=141 ctermbg=NONE cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE
 hi Function ctermfg=81 ctermbg=NONE cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE
 hi Identifier ctermfg=81 ctermbg=NONE cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE

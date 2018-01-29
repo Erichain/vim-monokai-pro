@@ -20,7 +20,7 @@ hi CursorColumn ctermfg=NONE ctermbg=237 cterm=NONE guibg=#3a3a3a guifg=NONE gui
 hi ColorColumn ctermfg=NONE ctermbg=237 cterm=NONE guibg=#3a3a3a guifg=NONE guisp=NONE gui=NONE
 hi LineNr ctermfg=102 ctermbg=235 cterm=NONE guibg=#262626 guifg=#878787 guisp=NONE gui=NONE
 hi VertSplit ctermfg=241 ctermbg=241 cterm=NONE guibg=#606060 guifg=#606060 guisp=NONE gui=NONE
-hi MatchParen ctermfg=11 ctermbg=NONE cterm=underline guibg=NONE guifg=#fed76e guisp=NONE gui=NONE
+hi MatchParen ctermfg=11 ctermbg=NONE cterm=underline guibg=NONE guifg=#fed76e guisp=NONE gui=underline
 hi StatusLine ctermfg=231 ctermbg=241 cterm=bold guibg=#606060 guifg=#ffffff guisp=NONE gui=NONE
 hi StatusLineNC ctermfg=231 ctermbg=241 cterm=NONE guibg=#606060 guifg=#ffffff guisp=NONE gui=NONE
 hi Pmenu ctermfg=NONE ctermbg=236 cterm=NONE guibg=#303030 guifg=NONE guisp=NONE gui=NONE
@@ -37,10 +37,10 @@ hi Comment ctermfg=242 ctermbg=NONE cterm=NONE guibg=NONE guifg=#666666 guisp=NO
 hi Conditional ctermfg=204 ctermbg=NONE cterm=NONE guibg=NONE guifg=#fd6389 guisp=NONE gui=NONE
 hi Constant ctermfg=NONE ctermbg=NONE cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE
 hi Define ctermfg=204 ctermbg=NONE cterm=NONE guibg=NONE guifg=#fd6389 guisp=NONE gui=NONE
-hi DiffAdd ctermfg=231 ctermbg=155 cterm=bold guibg=#aadb7b guifg=#ffffff guisp=NONE gui=NONE
+hi DiffAdd ctermfg=231 ctermbg=155 cterm=bold guibg=#aadb7b guifg=#ffffff guisp=NONE gui=bold
 hi DiffDelete ctermfg=204 ctermbg=NONE cterm=NONE guibg=#fd6389 guifg=NONE guisp=NONE gui=NONE
 hi DiffChange ctermfg=NONE ctermbg=NONE cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE
-hi DiffText ctermfg=231 ctermbg=24 cterm=bold guibg=#7cdce7 guifg=#ffffff guisp=NONE gui=NONE
+hi DiffText ctermfg=231 ctermbg=24 cterm=bold guibg=#7cdce7 guifg=#ffffff guisp=NONE gui=bold
 hi ErrorMsg ctermfg=231 ctermbg=204 cterm=NONE guibg=#fd6389 guifg=#ffffff guisp=NONE gui=NONE
 hi WarningMsg ctermfg=231 ctermbg=204 cterm=NONE guibg=#fd6389 guifg=#ffffff guisp=NONE gui=NONE
 hi Float ctermfg=141 ctermbg=NONE cterm=NONE guibg=NONE guifg=#ab9ff0 guisp=NONE gui=NONE
@@ -58,7 +58,7 @@ hi Statement ctermfg=204 ctermbg=NONE cterm=NONE guibg=NONE guifg=#fd6389 guisp=
 hi StorageClass ctermfg=81 ctermbg=NONE cterm=NONE guibg=NONE guifg=#7cdce7 guisp=NONE gui=NONE
 hi String ctermfg=221 ctermbg=NONE cterm=NONE guibg=NONE guifg=#fed76e guisp=NONE gui=NONE
 hi Tag ctermfg=204 ctermbg=NONE cterm=NONE guibg=NONE guifg=#fd6389 guisp=NONE gui=NONE
-hi Title ctermfg=255 ctermbg=NONE cterm=bold guibg=NONE guifg=#eeeeee guisp=NONE gui=NONE
+hi Title ctermfg=255 ctermbg=NONE cterm=bold guibg=NONE guifg=#eeeeee guisp=NONE gui=bold
 hi Todo ctermfg=11 ctermbg=NONE guibg=NONE guifg=#fed76e guisp=NONE gui=NONE
 hi Type ctermfg=81 ctermbg=NONE cterm=NONE guibg=NONE guifg=#7cdce7 guisp=NONE gui=NONE
 hi Underlined ctermfg=NONE ctermbg=NONE cterm=underline guibg=NONE guifg=NONE guisp=NONE gui=NONE
@@ -86,7 +86,7 @@ hi rubyRailsARMethod ctermfg=81 ctermbg=NONE cterm=NONE guibg=NONE guifg=#7cdce7
 hi rubyRailsRenderMethod ctermfg=81 ctermbg=NONE cterm=NONE guibg=NONE guifg=#7cdce7 guisp=NONE gui=NONE
 hi rubyRailsMethod ctermfg=81 ctermbg=NONE cterm=NONE guibg=NONE guifg=#7cdce7 guisp=NONE gui=NONE
 hi erubyDelimiter ctermfg=NONE ctermbg=NONE cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE
-hi erubyComment ctermfg=95 ctermbg=NONE cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE
+hi erubyComment ctermfg=95 ctermbg=NONE cterm=NONE guibg=NONE guifg=#666666 guisp=NONE gui=NONE
 hi erubyRailsMethod ctermfg=81 ctermbg=NONE cterm=NONE guibg=NONE guifg=#7cdce7 guisp=NONE gui=NONE
 hi htmlTag ctermfg=245 ctermbg=NONE cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE
 hi htmlEndTag ctermfg=245 ctermbg=NONE cterm=NONE guibg=NONE guifg=NONE guisp=NONE gui=NONE
